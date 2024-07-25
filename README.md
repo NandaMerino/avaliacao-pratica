@@ -36,3 +36,9 @@ Para clonar o repositório e executar o projeto localmente, siga os seguintes pa
 - **Fernanda Merino** - [NandaMerino](https://github.com/NandaMerino)
 - **Nathalia** - [NathaliaDN](https://github.com/NathaliaDN)
 - **Rafael** - [Rafael Alves de Oliveira](https://github.com/rafascript)
+
+## Status do Projeto
+Este projeto está finalizado.
+
+## GitHub Pages
+https://west-devs.github.io/avaliacao-pratica/
