@@ -29,8 +29,8 @@ Para clonar o repositório e executar o projeto localmente, siga os seguintes pa
 - `index.html`: Arquivo HTML principal do projeto.
 - `README.md`: Este arquivo de documentação.
 
-- ## Autores
-- 
+## Autores
+
 - **Bruno** - [Bruno Vieira Nobre](https://github.com/BrunoV7)
 - **Cassio** - [Cássio Vagner dos Santos Diogo](https://github.com/Cassio-Santxs)
 - **Fernanda Merino** - [NandaMerino](https://github.com/NandaMerino)
